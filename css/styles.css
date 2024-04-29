@@ -137,3 +137,12 @@ span {
   font-style: normal;
   color: #434455;
 }
+.link-color {
+  color: #434455;
+}
+.paragraph {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
