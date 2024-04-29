@@ -56,6 +56,10 @@ ol {
   font-weight: bold;
   font-size: 36px;
   letter-spacing: 0.02em;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .third-heading {
@@ -63,6 +67,7 @@ ol {
   font-size: 20px;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  line-height: 1.2;
 }
 
 button {
