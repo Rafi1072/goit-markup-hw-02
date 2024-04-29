@@ -1,6 +1,7 @@
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
+  background-color: #ffffff;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -37,7 +38,7 @@ ol {
 }
 .link:hover,
 .link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .link:active {
@@ -73,16 +74,15 @@ button {
   background-color: #4d5ae5;
   color: #ffffff;
   padding: 16px 32px;
-  width: 169px;
-  height: 56px;
 }
 
 a {
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 16px;
-  letter-spacing: 4%;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
   text-decoration: underline;
+  color: #2e2f42;
 }
 
 header {
@@ -102,4 +102,19 @@ header {
 footer {
   background-color: #2e2f42;
   color: #f4f4fd;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+span {
+  color: #2e2f42;
+}
+.logo-color {
+  color: #ffffff;
 }
