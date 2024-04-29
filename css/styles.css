@@ -1,10 +1,13 @@
 body {
   font-family: "Roboto", "Raleway", sans-serif;
-  color: #2e2f42;
+  color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
 }
-// <uniquifier>: Use a unique and descriptive class name
 
-.raleway-<uniquifier > {
+.raleway {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -38,5 +41,64 @@ ol {
 }
 
 .link:active {
-  color: #4d5ae5;
+  color: #404bbf;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 56px;
+  letter-spacing: 2%;
+  line-height: 60px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 36px;
+  letter-spacing: 2%;
+  text-align: center;
+}
+
+h3 {
+  font-weight: medium;
+  font-size: 20px;
+  letter-spacing: 2%;
+}
+
+button {
+  font-weight: medium;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  background-color: #4d5ae5;
+  color: #ffffff;
+  padding: 16px 32px;
+  width: 169px;
+  height: 56px;
+}
+
+a {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 4%;
+  text-decoration: underline;
+}
+
+header {
+  background-color: #ffffff;
+}
+.first-section {
+  background-color: #2e2f42;
+  text-align: center;
+  color: #ffffff;
+}
+
+.second-section {
+  background-color: #f4f4fd;
+}
+.third-section {
+}
+footer {
+  background-color: #2e2f42;
+  color: #f4f4fd;
 }
