@@ -65,6 +65,7 @@ h3 {
 }
 
 button {
+  cursor: pointer;
   font-weight: medium;
   font-size: 16px;
   line-height: 24px;
