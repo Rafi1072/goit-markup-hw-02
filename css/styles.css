@@ -55,7 +55,6 @@ h2 .second-heading {
   font-weight: bold;
   font-size: 36px;
   letter-spacing: 0.02em;
-  text-align: center;
 }
 
 h3 .third-heading {
@@ -74,7 +73,6 @@ button {
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
   color: #ffffff;
-  padding: 16px 32px;
 }
 
 a {
@@ -91,7 +89,6 @@ header {
 }
 .first-section {
   background-color: #2e2f42;
-  text-align: center;
   color: #ffffff;
 }
 
