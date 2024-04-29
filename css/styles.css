@@ -112,5 +112,10 @@ header {
   color: #4d5ae5;
 }
 .logo-color {
-  color: #ffffff;
+  color: #f4f4fd;
+}
+.paragraph {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
