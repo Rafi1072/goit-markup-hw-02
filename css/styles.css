@@ -44,11 +44,12 @@ ol {
 .button-action:focus {
   background-color: #404bbf;
 }
-h1 .primary-heading {
+h1 {
   font-weight: bold;
   font-size: 56px;
   letter-spacing: 0.02em;
   line-height: 1.07;
+  text-align: center;
 }
 
 h2 .second-heading {
@@ -97,7 +98,7 @@ header {
 }
 .third-section {
 }
-footer .footer {
+.page-footer {
   background-color: #2e2f42;
   color: #f4f4fd;
 }
@@ -109,9 +110,6 @@ footer .footer {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-}
-span {
-  color: #2e2f42;
 }
 .logo-color {
   color: #ffffff;
